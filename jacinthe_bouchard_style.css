@@ -1,0 +1,165 @@
+/* Créé par Jacinthe Bouchard pour ART6017 Devoir 1 */
+
+.nom {
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.Titre {
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-bottom: 70px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Titre1 {
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 10vw;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.sous-titre {
+    margin-top: 8vw;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    font-size: 20px;
+}
+
+.tous-boutons {
+    display: inline-block;
+    margin-top: 8vw;
+}
+
+.tous-boutons1 {
+    display: inline-block;
+}
+
+
+.bouton:hover {
+    background-color: #ff8c1a;
+}
+
+.bouton1:hover {
+    background-color: #ff8c1a;
+}
+
+.bouton {
+    margin-left: 17vw;
+    background-color: #ffcc99;
+    border-radius: 10px;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.bouton1 {
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: #ffcc99;
+    border-radius: 10px;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.bouton2:hover {
+    color: #cc6600;
+}
+
+.bouton2 {
+  text-decoration: none;
+  color: black;
+  font-style:italic;
+}
+
+
+body {
+    background-color: #fff2e6;
+    font-family: 'Bitter', serif;
+}
+
+.main {
+    background-color: #ffe5cc;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.main1 {
+   background-color: #ffe5cc;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 250px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 5px; 
+}
+
+.main2{
+    background-color: #ffe5cc;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-left: 1vw;
+    padding-right: 5px;
+    padding-bottom: 5px; 
+    margin-top: 20px;
+}
+
+.moi {
+    max-width: 200px;
+    height: auto;
+    border-radius: 10px;
+    float:right;
+    position: relative;
+    top: -125px;
+    right: 20px;
+}
+
+.container {
+    display: inline;
+}
+
+.note {
+    font-size: 13px;
+}
+
+.image {
+  max-width: 22.6vw;
+    height: auto;
+    border-radius: 10px;
+}
+
+.petit {
+    max-width: 22.6vw;
+    height: 14vw;
+    border-radius: 10px;
+}
+
+.description {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight:600;
+}
+
+.presentation {
+    font-size: 21px;
+    font-weight: bold;
+}
+
