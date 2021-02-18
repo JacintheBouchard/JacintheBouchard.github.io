@@ -1,0 +1,59 @@
+body {
+    background-color: darkgray;
+    font-family: 'Varela', sans-serif;
+}
+
+.main {
+    margin: 10vw;
+    margin-top: 5vw;
+    background-color: lightgray;
+    border-radius: 8px;
+}
+
+.contient-titres {
+    background-color: lightgray;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    border-radius: 8px;
+}
+
+.Titre {
+    margin-top: 10vw;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.Sous-titre {
+    text-align: center;
+    font-size: 30px;
+}
+
+.Sous-titre2 {
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 2vw;
+    font-weight: bold;
+   
+    
+}
+
+.image {
+    height: 40vw;
+    width: auto;
+    margin-left: 11vw;
+    margin-right: 9vw;
+    margin-bottom: 2vw;
+    
+}
+
+.image:hover {
+    transform: scale(1.5);
+}
+
+.paragraphe {
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    padding-left: 15px;
+    padding-right: 15px;
+}
